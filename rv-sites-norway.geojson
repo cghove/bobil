@@ -10,7 +10,8 @@
     "properties": {
     "name":"\"Garnesstrand (1)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -22,7 +23,8 @@
     "properties": {
     "name":"\"Notodden bobilcamp (2)\"",
     "comment":"\"Organized site - kr 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -34,7 +36,8 @@
     "properties": {
     "name":"\"Vardekleivneset (4)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -46,7 +49,8 @@
     "properties": {
     "name":"\"Vikebygdveien v/Helgatun (5)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -58,7 +62,8 @@
     "properties": {
     "name":"\"Kvitneset (6)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -83,7 +88,8 @@
     "properties": {
     "name":"\"Lerstad utenfor Ålesund (8)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -95,7 +101,8 @@
     "properties": {
     "name":"\"Vasstrand (Spjelkavik) (9)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -107,7 +114,8 @@
     "properties": {
     "name":"\"Ørskogfjellet (10)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -119,7 +127,8 @@
     "properties": {
     "name":"\"Prestmyra (11)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -131,7 +140,8 @@
     "properties": {
     "name":"\"Treekra (12)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -143,7 +153,8 @@
     "properties": {
     "name":"\"Rakstangbukta (13)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -155,7 +166,8 @@
     "properties": {
     "name":"\"Hogga sluse (14)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -167,7 +179,8 @@
     "properties": {
     "name":"\"Solnørvika fritid (15)\"",
     "comment":"\"Organized site - 250\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -192,7 +205,8 @@
     "properties": {
     "name":"\"Tresfjord småbåthavn (17)\"",
     "comment":"\"Organized site - 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -217,7 +231,8 @@
     "properties": {
     "name":"\"Rysjedalsvika  (20)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -229,7 +244,8 @@
     "properties": {
     "name":"\"Moskog  (21)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -241,7 +257,8 @@
     "properties": {
     "name":"\"Utenfor Stryn (mot Hornindal) (22)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -253,7 +270,8 @@
     "properties": {
     "name":"\"Trysil flyplass (23)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -265,7 +283,8 @@
     "properties": {
     "name":"\"Djupfloen (Trysil) (24)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -277,7 +296,8 @@
     "properties": {
     "name":"\"Noresund (25)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -289,7 +309,8 @@
     "properties": {
     "name":"\"Heggjebottvatnet (26)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -301,7 +322,8 @@
     "properties": {
     "name":"\"Åsvatnet (27)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -313,7 +335,8 @@
     "properties": {
     "name":"\"Utenfor Dalen i retning Åmot (28)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -325,7 +348,8 @@
     "properties": {
     "name":"\"Avaldsnes (29)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -337,7 +361,8 @@
     "properties": {
     "name":"\"Kistefoss (30)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -349,7 +374,8 @@
     "properties": {
     "name":"\"Møsvassdammen (31)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -361,7 +387,8 @@
     "properties": {
     "name":"\"Ferkingstad (32)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -373,7 +400,8 @@
     "properties": {
     "name":"\"Tyinvegen (33)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -385,7 +413,8 @@
     "properties": {
     "name":"\"Jostedalen (34)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -397,7 +426,8 @@
     "properties": {
     "name":"\"Ausevika (35)\"",
     "comment":"\"Free camping - Rest area - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -409,7 +439,8 @@
     "properties": {
     "name":"\"Sandefjord bobilhavn (39)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -421,7 +452,8 @@
     "properties": {
     "name":"\"Nordlandshagen (40)\"",
     "comment":"\"Organized site - \"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -446,7 +478,8 @@
     "properties": {
     "name":"\"Farsund Bobilcamp (42)\"",
     "comment":"\"Organized site - Gratis / Free / Kostenlos\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -471,7 +504,8 @@
     "properties": {
     "name":"\"Aslakheimen (utenfor Alta retning sørover) (44)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -483,7 +517,8 @@
     "properties": {
     "name":"\"Oppdal sentrum (45)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -495,7 +530,8 @@
     "properties": {
     "name":"\"Vitensenteret (46)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -507,7 +543,8 @@
     "properties": {
     "name":"\"Gottenberg (47)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -519,7 +556,8 @@
     "properties": {
     "name":"\"Fønhus Bru / Begna (48)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -531,7 +569,8 @@
     "properties": {
     "name":"\"Oppskredvannet (49)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -543,7 +582,8 @@
     "properties": {
     "name":"\"Pluscamp Bud (50)\"",
     "comment":"\"Organized site - ukjent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -555,7 +595,8 @@
     "properties": {
     "name":"\"Arnøya (51)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -567,7 +608,8 @@
     "properties": {
     "name":"\"Berkåk (52)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -579,7 +621,8 @@
     "properties": {
     "name":"\"Berensholmen (53)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -591,7 +634,8 @@
     "properties": {
     "name":"\"Finnlandsvika (54)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -603,7 +647,8 @@
     "properties": {
     "name":"\"Sildsand (utenfor Finnsnes) (55)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -615,7 +660,8 @@
     "properties": {
     "name":"\"Folldal (høyt oppe i dalen) (56)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -653,7 +699,8 @@
     "properties": {
     "name":"\"Hellstranda (60)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -665,7 +712,8 @@
     "properties": {
     "name":"\"Blefjell Camping (65)\"",
     "comment":"\"Organized site - 250\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -677,7 +725,8 @@
     "properties": {
     "name":"\"Rv30 i Ålen (67)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -689,7 +738,8 @@
     "properties": {
     "name":"\"Hyljelihylen (68)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -701,7 +751,8 @@
     "properties": {
     "name":"\"Ombo ved Eidssund (69)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -713,7 +764,8 @@
     "properties": {
     "name":"\"Fjøløy fyr (70)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -738,7 +790,8 @@
     "properties": {
     "name":"\"Loda (72)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -750,7 +803,8 @@
     "properties": {
     "name":"\"Vestre Bokn (73)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -775,7 +829,8 @@
     "properties": {
     "name":"\"Leirpollen (75)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -787,7 +842,8 @@
     "properties": {
     "name":"\"Kalsund (76)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -799,7 +855,8 @@
     "properties": {
     "name":"\"Årsnes fergekai (77)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -811,7 +868,8 @@
     "properties": {
     "name":"\"Espeland (78)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -823,7 +881,8 @@
     "properties": {
     "name":"\"Røldalsfjellet (stor plass) (79)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -835,7 +894,8 @@
     "properties": {
     "name":"\"Røldalsfjellet (mindre plass) (80)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -847,7 +907,8 @@
     "properties": {
     "name":"\"Odda bobilcamp (82)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -859,7 +920,8 @@
     "properties": {
     "name":"\"Odda sentrum (83)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -884,7 +946,8 @@
     "properties": {
     "name":"\"Kragerø bobilparkering (85)\"",
     "comment":"\"Organized site - 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -896,7 +959,8 @@
     "properties": {
     "name":"\"Sporevann (86)\"",
     "comment":"\"Free camping - Other - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -908,7 +972,8 @@
     "properties": {
     "name":"\"Skien fritidspark (87)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -920,7 +985,8 @@
     "properties": {
     "name":"\"Tilja Båtforening (88)\"",
     "comment":"\"Organized site - 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -945,7 +1011,8 @@
     "properties": {
     "name":"\"Høyås (90)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -983,7 +1050,8 @@
     "properties": {
     "name":"\"Osensjøen rasteplass (93)\"",
     "comment":"\"Free camping - Rest area - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -995,7 +1063,8 @@
     "properties": {
     "name":"\"Nessmoen rasteplass (94)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1007,7 +1076,8 @@
     "properties": {
     "name":"\"Bratland Camping (97)\"",
     "comment":"\"Organized site - 285\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1019,7 +1089,8 @@
     "properties": {
     "name":"\"Are (99)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1031,7 +1102,8 @@
     "properties": {
     "name":"\"Ognahabn (100)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1043,7 +1115,8 @@
     "properties": {
     "name":"\"Parkering til Dreng (101)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1055,7 +1128,8 @@
     "properties": {
     "name":"\"Blåhammer camping (102)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1067,7 +1141,8 @@
     "properties": {
     "name":"\"Lyseren badeplass (104)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1079,7 +1154,8 @@
     "properties": {
     "name":"\"Mjær (105)\"",
     "comment":"\"Free camping - Rest area - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1091,7 +1167,8 @@
     "properties": {
     "name":"\"Fosseberget (106)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1103,7 +1180,8 @@
     "properties": {
     "name":"\"Asp (Starten av Kystriksvegen FV17) (107)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1115,7 +1193,8 @@
     "properties": {
     "name":"\"Småvikan (Fv17 ved grense Namsos/Overhalla) (108)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1127,7 +1206,8 @@
     "properties": {
     "name":"\"Tretvikberga rasteplass (109)\"",
     "comment":"\"Free camping - Rest area - Suitable for emergencies only - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1139,7 +1219,8 @@
     "properties": {
     "name":"\"Eidsvatnet (Fv 17) (110)\"",
     "comment":"\"Free camping - Rest area - Suitable for emergencies only - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1151,7 +1232,8 @@
     "properties": {
     "name":"\"Hjelmstigvatnet (Fv17) (111)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1163,7 +1245,8 @@
     "properties": {
     "name":"\"Lakssjø (mellom Siljan og Kvelde) (112)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1175,7 +1258,8 @@
     "properties": {
     "name":"\"Sørskaret (113)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1187,7 +1271,8 @@
     "properties": {
     "name":"\"Gløshaugen (114)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1199,7 +1284,8 @@
     "properties": {
     "name":"\"Bangsund (Kalvøya) (115)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1211,7 +1297,8 @@
     "properties": {
     "name":"\"Namsos (Spillum) (116)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1223,7 +1310,8 @@
     "properties": {
     "name":"\"Namsos (Klompen) (117)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1235,7 +1323,8 @@
     "properties": {
     "name":"\"Almåsgrønningen (I) (118)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1247,7 +1336,8 @@
     "properties": {
     "name":"\"Almåsgrønnningen (II) (119)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1259,7 +1349,8 @@
     "properties": {
     "name":"\"Almåsgrønningen (III) (120)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1271,7 +1362,8 @@
     "properties": {
     "name":"\"Storvika Skrøyvstadvatnet (121)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1283,7 +1375,8 @@
     "properties": {
     "name":"\"Flakaneset (122)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1295,7 +1388,8 @@
     "properties": {
     "name":"\"Storbakken (123)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1307,7 +1401,8 @@
     "properties": {
     "name":"\"Salsbruket (124)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1319,7 +1414,8 @@
     "properties": {
     "name":"\"Austre Skagabukta (125)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1331,7 +1427,8 @@
     "properties": {
     "name":"\"Bjørbekken (126)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1343,7 +1440,8 @@
     "properties": {
     "name":"\"Myrvoll (127)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1355,7 +1453,8 @@
     "properties": {
     "name":"\"Torvmyra (128)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1367,7 +1466,8 @@
     "properties": {
     "name":"\"Mulstadvatnet/Rotvikvatnet (129)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1379,7 +1479,8 @@
     "properties": {
     "name":"\"Nakling (130)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1391,7 +1492,8 @@
     "properties": {
     "name":"\"Vestgård (131)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1403,7 +1505,8 @@
     "properties": {
     "name":"\"Ved Grimsfjellet (132)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1415,7 +1518,8 @@
     "properties": {
     "name":"\"Buskholmsundet (I) (133)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1427,7 +1531,8 @@
     "properties": {
     "name":"\"Buskholmsundet (II) (134)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1439,7 +1544,8 @@
     "properties": {
     "name":"\"Pmarka (Djupvikvatnet) (143)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1451,7 +1557,8 @@
     "properties": {
     "name":"\"Foldereid (144)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1463,7 +1570,8 @@
     "properties": {
     "name":"\"Avløysinga (145)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1475,7 +1583,8 @@
     "properties": {
     "name":"\"Kåkersundet I (146)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1487,7 +1596,8 @@
     "properties": {
     "name":"\"Kåkersundet II (147)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1499,7 +1609,8 @@
     "properties": {
     "name":"\"Drangan (148)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1511,7 +1622,8 @@
     "properties": {
     "name":"\"Langnesodden (149)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1523,7 +1635,8 @@
     "properties": {
     "name":"\"Elvis Presleys veg (150)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1535,7 +1648,8 @@
     "properties": {
     "name":"\"Kvithella (194)\"",
     "comment":"\"Free camping - Other - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1547,7 +1661,8 @@
     "properties": {
     "name":"\"Vikten (208)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1559,7 +1674,8 @@
     "properties": {
     "name":"\"Ertemarka i Tistedalen (210)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1571,7 +1687,8 @@
     "properties": {
     "name":"\"Sørlandets modellbåtklubb (212)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1596,7 +1713,8 @@
     "properties": {
     "name":"\"Rakkenes (214)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1608,7 +1726,8 @@
     "properties": {
     "name":"\"Steinmo bobilparkering (215)\"",
     "comment":"\"Organized site - 100\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1620,7 +1739,8 @@
     "properties": {
     "name":"\"Reshjemheia mellom Bø og Notodden (216)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1632,7 +1752,8 @@
     "properties": {
     "name":"\"Vatnebuvannet i Smileyland :-) (217)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1644,7 +1765,8 @@
     "properties": {
     "name":"\"Vold Bobilparkering (Skien)  - i GM81DT riket (218)\"",
     "comment":"\"Organized site - 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1656,7 +1778,8 @@
     "properties": {
     "name":"\"Trælvatn ved Vedlausfjell WT (219)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1681,7 +1804,8 @@
     "properties": {
     "name":"\"Gjerdrum Almenningen - Tom&Jerry-land :-) (221)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1706,7 +1830,8 @@
     "properties": {
     "name":"\"Årbakka (223)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1718,7 +1843,8 @@
     "properties": {
     "name":"\"Røkland (E6 Saltdal) (224)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1730,7 +1856,8 @@
     "properties": {
     "name":"\"Rong (225)\"",
     "comment":"\"Organized site - 0\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1755,7 +1882,8 @@
     "properties": {
     "name":"\"Ulvik (Frosta) (228)\"",
     "comment":"\"Free camping - Other - Decent place - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1767,7 +1895,8 @@
     "properties": {
     "name":"\"Hauganfjæra camping (229)\"",
     "comment":"\"Organized site - Kr 230 - 270\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1779,7 +1908,8 @@
     "properties": {
     "name":"\"Øra bobilcamping (230)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1791,7 +1921,8 @@
     "properties": {
     "name":"\"Moloen til Tautra (231)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1803,7 +1934,8 @@
     "properties": {
     "name":"\"Fjellhov rundløype (232)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1815,7 +1947,8 @@
     "properties": {
     "name":"\"Westrumsfjæra (233)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1827,7 +1960,8 @@
     "properties": {
     "name":"\"Laberget (234)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1839,7 +1973,8 @@
     "properties": {
     "name":"\"Sprova (235)\"",
     "comment":"\"Free camping - Other - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1851,7 +1986,8 @@
     "properties": {
     "name":"\"Oksvolldalen (236)\"",
     "comment":"\"Free camping - Other - Decent place - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1863,7 +1999,8 @@
     "properties": {
     "name":"\"Sjålivassdammen (237)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1875,7 +2012,8 @@
     "properties": {
     "name":"\"Storvatnet (238)\"",
     "comment":"\"Free camping - Other - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1887,7 +2025,8 @@
     "properties": {
     "name":"\"Hylla  (239)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1899,7 +2038,8 @@
     "properties": {
     "name":"\"Vevelstad (240)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1911,7 +2051,8 @@
     "properties": {
     "name":"\"Silatunnellen  (241)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1936,7 +2077,8 @@
     "properties": {
     "name":"\"Kilvika (243)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1948,7 +2090,8 @@
     "properties": {
     "name":"\"Skogreina (244)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1960,7 +2103,8 @@
     "properties": {
     "name":"\"Utsikt til Snøhetta (245)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1985,7 +2129,8 @@
     "properties": {
     "name":"\"Skirvedalen i Tinn (247)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -1997,7 +2142,8 @@
     "properties": {
     "name":"\"Grungstadvatnet (249)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2009,7 +2155,8 @@
     "properties": {
     "name":"\"Gårdsøya (250)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2047,7 +2194,8 @@
     "properties": {
     "name":"\"Ylvingen (Himmelblå-land) (253)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2059,7 +2207,8 @@
     "properties": {
     "name":"\"Sundsvold (254)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2084,7 +2233,8 @@
     "properties": {
     "name":"\"Vatnebryn i Numedal (256)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2096,7 +2246,8 @@
     "properties": {
     "name":"\"Heia (258)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2108,7 +2259,8 @@
     "properties": {
     "name":"\"Bjanes (259)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2120,7 +2272,8 @@
     "properties": {
     "name":"\"Berby (262)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2132,7 +2285,8 @@
     "properties": {
     "name":"\"Nusfjord (263)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2144,7 +2298,8 @@
     "properties": {
     "name":"\"Henningsvær (264)\"",
     "comment":"\"Organized site - 100 NOK\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2156,7 +2311,8 @@
     "properties": {
     "name":"\"Mellom Leirfossene (265)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2168,7 +2324,8 @@
     "properties": {
     "name":"\"Grungstadvatnet (266)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2180,7 +2337,8 @@
     "properties": {
     "name":"\"Tortenvika (271)\"",
     "comment":"\"Free camping - Other - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2192,7 +2350,8 @@
     "properties": {
     "name":"\"Kistastraumen (273)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2204,7 +2363,8 @@
     "properties": {
     "name":"\"Straumdaltunnellen (274)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2216,7 +2376,8 @@
     "properties": {
     "name":"\"Ågvatnet (275)\"",
     "comment":"\"Free camping - Rest area - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2241,7 +2402,8 @@
     "properties": {
     "name":"\"Oterstranda (283)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2253,7 +2415,8 @@
     "properties": {
     "name":"\"Skålsvikneset (284)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2265,7 +2428,8 @@
     "properties": {
     "name":"\"Hångåsvikodsden (285)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2277,7 +2441,8 @@
     "properties": {
     "name":"\"Brekkeelva (286)\"",
     "comment":"\"Free camping - Other - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2289,7 +2454,8 @@
     "properties": {
     "name":"\"Vestermo (287)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2314,7 +2480,8 @@
     "properties": {
     "name":"\"Tverråmoen (289)\"",
     "comment":"\"Free camping - Other - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2326,7 +2493,8 @@
     "properties": {
     "name":"\"Innervatnet I (290)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2338,7 +2506,8 @@
     "properties": {
     "name":"\"Innervatnet II (291)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2350,7 +2519,8 @@
     "properties": {
     "name":"\"Sjøforsen bru (292)\"",
     "comment":"\"Free camping - Other - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2362,7 +2532,8 @@
     "properties": {
     "name":"\"Stormyrbassenget  (293)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2374,7 +2545,8 @@
     "properties": {
     "name":"\"Tustervassdammen (294)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2386,7 +2558,8 @@
     "properties": {
     "name":"\"Stikkelvika (295)\"",
     "comment":"\"Free camping - Other - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2398,7 +2571,8 @@
     "properties": {
     "name":"\"Plass for en langs Røssvantet (296)\"",
     "comment":"\"Free camping - Other - Decent place - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2410,7 +2584,8 @@
     "properties": {
     "name":"\"Røyrvik båthavn (297)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2422,7 +2597,8 @@
     "properties": {
     "name":"\"Kvennmyra (298)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2434,7 +2610,8 @@
     "properties": {
     "name":"\"Inngang til Blåfjella-Skjækerfjella nasjonalpark (299)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2459,7 +2636,8 @@
     "properties": {
     "name":"\"Dalsrud (329)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2471,7 +2649,8 @@
     "properties": {
     "name":"\"Garbakkegga (Rv 3) (330)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2483,7 +2662,8 @@
     "properties": {
     "name":"\"Langs E6 nord i Grong (331)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2495,7 +2675,8 @@
     "properties": {
     "name":"\"Nesten Aunfjellet (332)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2507,7 +2688,8 @@
     "properties": {
     "name":"\"Kattebakken (334)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2519,7 +2701,8 @@
     "properties": {
     "name":"\"Litl Skånland (335)\"",
     "comment":"\"Free camping - Other - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2531,7 +2714,8 @@
     "properties": {
     "name":"\"Tennås (336)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2543,7 +2727,8 @@
     "properties": {
     "name":"\"Sigerfjordtunnellen (337)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2555,7 +2740,8 @@
     "properties": {
     "name":"\"Selnes (338)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2567,7 +2753,8 @@
     "properties": {
     "name":"\"Austnesfjord (339)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2579,7 +2766,8 @@
     "properties": {
     "name":"\"Vegårshei v/Haulandsvann (342)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2591,7 +2779,8 @@
     "properties": {
     "name":"\"Fidalen (344)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2603,7 +2792,8 @@
     "properties": {
     "name":"\"Aunfjellet (346)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2615,7 +2805,8 @@
     "properties": {
     "name":"\"Rudda (348)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2640,7 +2831,8 @@
     "properties": {
     "name":"\"Trollbergtjern (350)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2665,7 +2857,8 @@
     "properties": {
     "name":"\"Haraldshaugen Camping (359)\"",
     "comment":"\"Organized site - 250kr - 350kr\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2677,7 +2870,8 @@
     "properties": {
     "name":"\"Grendi (Rv. 9) (360)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2689,7 +2883,8 @@
     "properties": {
     "name":"\"Sokna Rennesøy (361)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2701,7 +2896,8 @@
     "properties": {
     "name":"\"IKEA Åsane (362)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2713,7 +2909,8 @@
     "properties": {
     "name":"\"Von-der-land (363)\"",
     "comment":"\"Free camping - Other - Decent place - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2725,7 +2922,8 @@
     "properties": {
     "name":"\"Børve (364)\"",
     "comment":"\"Free camping - Other - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2737,7 +2935,8 @@
     "properties": {
     "name":"\"Haukeli (366)\"",
     "comment":"\"Free camping - Other - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2749,7 +2948,8 @@
     "properties": {
     "name":"\"Roksdalen (368)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2761,7 +2961,8 @@
     "properties": {
     "name":"\"Holsjøleitet (369)\"",
     "comment":"\"Free camping - Rest area - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2786,7 +2987,8 @@
     "properties": {
     "name":"\"Hartvassdammen i Skarrupe-land (Hovden) (373)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2798,7 +3000,8 @@
     "properties": {
     "name":"\"Ørretåi (374)\"",
     "comment":"\"Organized site - 150\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2810,7 +3013,8 @@
     "properties": {
     "name":"\"Tortveit (375)\"",
     "comment":"\"Organized site - Kr. 150 + Strøm/Power kr. 50 \"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2822,7 +3026,8 @@
     "properties": {
     "name":"\"Badeplass (376)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2834,7 +3039,8 @@
     "properties": {
     "name":"\"Hovdevatnet i Ørsta (377)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2846,7 +3052,8 @@
     "properties": {
     "name":"\"Picknickplass ved siden av Glomma (378)\"",
     "comment":"\"Free camping - Rest area - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2858,7 +3065,8 @@
     "properties": {
     "name":"\"Hovda Rasteplass (379)\"",
     "comment":"\"Free camping - Rest area - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2870,7 +3078,8 @@
     "properties": {
     "name":"\"Jarseng (380)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2882,7 +3091,8 @@
     "properties": {
     "name":"\"Mønin (381)\"",
     "comment":"\"Free camping - Other - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2894,7 +3104,8 @@
     "properties": {
     "name":"\"Utsikt mot Rondane NP (383)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2906,7 +3117,8 @@
     "properties": {
     "name":"\"Langvatn  (384)\"",
     "comment":"\"Free camping - Rest area - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2918,7 +3130,8 @@
     "properties": {
     "name":"\"Filefjell ved fylkesgrensen (385)\"",
     "comment":"\"Free camping - Rest area - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2930,7 +3143,8 @@
     "properties": {
     "name":"\"Høgemyra (386)\"",
     "comment":"\"Free camping - Rest area - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2942,7 +3156,8 @@
     "properties": {
     "name":"\"Fokstua (387)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2954,7 +3169,8 @@
     "properties": {
     "name":"\"Skjærhalsen  (388)\"",
     "comment":"\"Free camping - Rest area - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2966,7 +3182,8 @@
     "properties": {
     "name":"\"Femund (389)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2978,7 +3195,8 @@
     "properties": {
     "name":"\"Ved Hodebry (393)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -2990,7 +3208,8 @@
     "properties": {
     "name":"\"Rett utenfor Skarnes (394)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3002,7 +3221,8 @@
     "properties": {
     "name":"\"Settetjenn (398)\"",
     "comment":"\"Free camping - Other - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3014,7 +3234,8 @@
     "properties": {
     "name":"\"Gamlevegen Svanvikveien (399)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3026,7 +3247,8 @@
     "properties": {
     "name":"\"Tjønnefoss i Treungen (400)\"",
     "comment":"\"Free camping - Other - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3051,7 +3273,8 @@
     "properties": {
     "name":"\"Gill (402)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3063,7 +3286,8 @@
     "properties": {
     "name":"\"Nordre Sømsbukt (403)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3075,7 +3299,8 @@
     "properties": {
     "name":"\"Søm- og Fuglevikstranda friluftsområde (404)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3087,7 +3312,8 @@
     "properties": {
     "name":"\"Skråstadheia (405)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3099,7 +3325,8 @@
     "properties": {
     "name":"\"Elvepark utenfor Mosby (406)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3111,7 +3338,8 @@
     "properties": {
     "name":"\"Bygdetunet i Drangedal (407)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3123,7 +3351,8 @@
     "properties": {
     "name":"\"Ramsvika (408)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3135,7 +3364,8 @@
     "properties": {
     "name":"\"Svennevig bru (409)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3147,7 +3377,8 @@
     "properties": {
     "name":"\"Natvig (410)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3159,7 +3390,8 @@
     "properties": {
     "name":"\"Tromøya I (411)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3171,7 +3403,8 @@
     "properties": {
     "name":"\"Tromøya II (412)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3183,7 +3416,8 @@
     "properties": {
     "name":"\"Indre Avreidkilen (413)\"",
     "comment":"\"Free camping - Other - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3195,7 +3429,8 @@
     "properties": {
     "name":"\"Tjenna bobilparkering (414)\"",
     "comment":"\"Organized site - kr. 250 / påbegynt døgn (started 24h)\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3207,7 +3442,8 @@
     "properties": {
     "name":"\"Urheia parkering / Barbulia (415)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3245,7 +3481,8 @@
     "properties": {
     "name":"\"Båssvika (418)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3270,7 +3507,8 @@
     "properties": {
     "name":"\"Tangvall (420)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3282,7 +3520,8 @@
     "properties": {
     "name":"\"Høllesanden (421)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3294,7 +3533,8 @@
     "properties": {
     "name":"\"Torvesanden (422)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3306,7 +3546,8 @@
     "properties": {
     "name":"\"Storestølheia (423)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3318,7 +3559,8 @@
     "properties": {
     "name":"\"Frivoll (424)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3330,7 +3572,8 @@
     "properties": {
     "name":"\"Hellevann (426)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3342,7 +3585,8 @@
     "properties": {
     "name":"\"Barnevandrerstien 7-11 (431)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3354,7 +3598,8 @@
     "properties": {
     "name":"\"Grindjord - General Fleischers plass (435)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3366,7 +3611,8 @@
     "properties": {
     "name":"\"Skjombrua rasteplass (436)\"",
     "comment":"\"Free camping - Rest area - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3378,7 +3624,8 @@
     "properties": {
     "name":"\"Skjomen camping (437)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3390,7 +3637,8 @@
     "properties": {
     "name":"\"Bispen Camping (438)\"",
     "comment":"\"Organized site - \"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3402,7 +3650,8 @@
     "properties": {
     "name":"\"Ballangen Camping (439)\"",
     "comment":"\"Organized site - 310\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3414,7 +3663,8 @@
     "properties": {
     "name":"\"Hurdalsjøen øst 1 (440)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3426,7 +3676,8 @@
     "properties": {
     "name":"\"Hurdalsjøen øst 2 (441)\"",
     "comment":"\"Free camping - Rest area - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3438,7 +3689,8 @@
     "properties": {
     "name":"\"Skrikeberg tunnelen - Rasteplass (442)\"",
     "comment":"\"Free camping - Rest area - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3450,7 +3702,8 @@
     "properties": {
     "name":"\"Gamle Ytredal Bru - Rasteplass (443)\"",
     "comment":"\"Free camping - Rest area - Decent place - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3462,7 +3715,8 @@
     "properties": {
     "name":"\"Vøringsfossen (444)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3474,7 +3728,8 @@
     "properties": {
     "name":"\"Måløy Bobilplass (445)\"",
     "comment":"\"Organized site - NOK 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3486,7 +3741,8 @@
     "properties": {
     "name":"\"Tusvikneset (446)\"",
     "comment":"\"Free camping - Other - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3498,7 +3754,8 @@
     "properties": {
     "name":"\"Bekjarvik (447)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3510,7 +3767,8 @@
     "properties": {
     "name":"\"Bergenshallen (448)\"",
     "comment":"\"Organized site - 200 kr/døgn\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3522,7 +3780,8 @@
     "properties": {
     "name":"\"Midtun Camping (449)\"",
     "comment":"\"Organized site - 250 kr/døgn\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3534,7 +3793,8 @@
     "properties": {
     "name":"\"Trondheim  (450)\"",
     "comment":"\"Organized site - 290 inkl strøm\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3546,7 +3806,8 @@
     "properties": {
     "name":"\"Førde havn (451)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3558,7 +3819,8 @@
     "properties": {
     "name":"\"Førde gratis (452)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3570,7 +3832,8 @@
     "properties": {
     "name":"\"Fedje (453)\"",
     "comment":"\"Organized site - 200 kr\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3582,7 +3845,8 @@
     "properties": {
     "name":"\"Aursjødammen (syd for dammen) (454)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3594,7 +3858,8 @@
     "properties": {
     "name":"\"Aursjøhytta (455)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3606,7 +3871,8 @@
     "properties": {
     "name":"\"Atna (syd) (460)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3618,7 +3884,8 @@
     "properties": {
     "name":"\"Straumbu (461)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3630,7 +3897,8 @@
     "properties": {
     "name":"\"Bergesjøen (466)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3642,7 +3910,8 @@
     "properties": {
     "name":"\"Kjemsjøen (467)\"",
     "comment":"\"Free camping - Other - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3667,7 +3936,8 @@
     "properties": {
     "name":"\"Gundersholmen i Grimstad (470)\"",
     "comment":"\"Free camping - Other - A fantastic site - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3679,7 +3949,8 @@
     "properties": {
     "name":"\"Smilefjeset i Folldal (471)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3691,7 +3962,8 @@
     "properties": {
     "name":"\"Osa bru (472)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3703,7 +3975,8 @@
     "properties": {
     "name":"\"Storsjøveien (473)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3715,7 +3988,8 @@
     "properties": {
     "name":"\"Koppangkjølen - Ved tjernet  (474)\"",
     "comment":"\"Free camping - Other - A fantastic site - 1 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3727,7 +4001,8 @@
     "properties": {
     "name":"\"Koppangkjølen - Stendammen (475)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3739,7 +4014,8 @@
     "properties": {
     "name":"\"Koppangkjølen - Jegersborg (476)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3751,7 +4027,8 @@
     "properties": {
     "name":"\"Hamntjønn (477)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3763,7 +4040,8 @@
     "properties": {
     "name":"\"NM på ski 1998 (478)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3775,7 +4053,8 @@
     "properties": {
     "name":"\"Siverhåggån (492)\"",
     "comment":"\"Free camping - Other - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3787,7 +4066,8 @@
     "properties": {
     "name":"\"Sandvatnet (På veg opp til Aursjøen) (495)\"",
     "comment":"\"Free camping - Other - Decent place - 2\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3799,7 +4079,8 @@
     "properties": {
     "name":"\"Horten Karljohansvern (496)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3824,7 +4105,8 @@
     "properties": {
     "name":"\"Mysusæter Parkering (498)\"",
     "comment":"\"Organized site - 100\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3836,7 +4118,8 @@
     "properties": {
     "name":"\"Fjellcamping Grimsdalshytta (499)\"",
     "comment":"\"Free camping - Other - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3848,7 +4131,8 @@
     "properties": {
     "name":"\"Fjellcamping Tollevshaugkyrkja (500)\"",
     "comment":"\"Free camping - Other - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3860,7 +4144,8 @@
     "properties": {
     "name":"\"Hira (Atnadalen) (501)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3872,7 +4157,8 @@
     "properties": {
     "name":"\"Sandtaket i Breidlia (Atnadalen) (502)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3897,7 +4183,8 @@
     "properties": {
     "name":"\"Søndagsmyrdammen (504)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3909,7 +4196,8 @@
     "properties": {
     "name":"\"Fin utsikt ved Åpta (505)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3921,7 +4209,8 @@
     "properties": {
     "name":"\"Rasteplass E18 - Omre (513)\"",
     "comment":"\"Free camping - Parking lot - Suitable for emergencies only - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3933,7 +4222,8 @@
     "properties": {
     "name":"\"Lillesand - Kokkenes (514)\"",
     "comment":"\"Organized site - 275 kr\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3945,7 +4235,8 @@
     "properties": {
     "name":"\"Bjortjenn langs Drangedalsveien (515)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3957,7 +4248,8 @@
     "properties": {
     "name":"\"Stabbestad Ferjeleie (516)\"",
     "comment":"\"Organized site - \"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3982,7 +4274,8 @@
     "properties": {
     "name":"\"Nevlunghavn (518)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -3994,7 +4287,8 @@
     "properties": {
     "name":"\"Tjølling (519)\"",
     "comment":"\"Free camping - Other - Decent place - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4006,7 +4300,8 @@
     "properties": {
     "name":"\"Lærdalsfjorden (520)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 4-6\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4018,7 +4313,8 @@
     "properties": {
     "name":"\"Langs vestsiden av Randsfjorden (525)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4030,7 +4326,8 @@
     "properties": {
     "name":"\"Gravfoss 1 (526)\"",
     "comment":"\"Free camping - Other - Decent place - 1\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4042,7 +4339,8 @@
     "properties": {
     "name":"\"Gravfoss 2 (527)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4054,7 +4352,8 @@
     "properties": {
     "name":"\"Furumo (528)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4066,7 +4365,8 @@
     "properties": {
     "name":"\"Puttemyra (529)\"",
     "comment":"\"Free camping - Other - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4078,7 +4378,8 @@
     "properties": {
     "name":"\"Skinnerli (530)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4090,7 +4391,8 @@
     "properties": {
     "name":"\"Til Vismundsætra (531)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4102,7 +4404,8 @@
     "properties": {
     "name":"\"Kroksrud (østsiden av Randsfjorden) (532)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4114,7 +4417,8 @@
     "properties": {
     "name":"\"Kongsvegen (Gamle E6) (534)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 7-10\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4126,7 +4430,8 @@
     "properties": {
     "name":"\"Nilsholmen (535)\"",
     "comment":"\"Free camping - Other - Decent place - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4138,7 +4443,8 @@
     "properties": {
     "name":"\"Muvatnet (536)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4150,7 +4456,8 @@
     "properties": {
     "name":"\"Bukjølen (537)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 10+ - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4162,7 +4469,8 @@
     "properties": {
     "name":"\"Sinclair bobil park (538)\"",
     "comment":"\"Organized site - 250\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4174,7 +4482,8 @@
     "properties": {
     "name":"\"Krågelandsvatnet (539)\"",
     "comment":"\"Free camping - Parking lot - Decent place - 3\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4186,7 +4495,8 @@
     "properties": {
     "name":"\"Lom ved Bøvra (540)\"",
     "comment":"\"Free camping - Other - A fantastic site - 7-10 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4198,7 +4508,8 @@
     "properties": {
     "name":"\"Tyinkrysset Camping (541)\"",
     "comment":"\"Organized site - 200\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4210,7 +4521,8 @@
     "properties": {
     "name":"\"Nomevatn (542)\"",
     "comment":"\"Free camping - Parking lot - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4222,7 +4534,8 @@
     "properties": {
     "name":"\"Vinsjehytta (Tuddal) (543)\"",
     "comment":"\"Free camping - Other - A fantastic site - 3 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4234,7 +4547,8 @@
     "properties": {
     "name":"\"Heddøla/Heddalsvatnet (563)\"",
     "comment":"\"Free camping - Other - A fantastic site - 2 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4246,7 +4560,8 @@
     "properties": {
     "name":"\"Melås bru (564)\"",
     "comment":"\"Free camping - Other - A fantastic site - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4258,7 +4573,8 @@
     "properties": {
     "name":"\"Pennefeltet (565)\"",
     "comment":"\"Free camping - Other - Decent place - 4-6 - tent\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   },
   {
@@ -4296,7 +4612,8 @@
     "properties": {
     "name":"\"Alleen bobilparkering (568)\"",
     "comment":"\"Organized site - 240\"",
-    
+    "FIELD5":"",
+    "FIELD6":""
     }
   }
 ]
