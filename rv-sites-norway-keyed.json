@@ -1,4 +1,5 @@
-[
+{
+  "markers": [
   [5.46135,60.449817,"Garnesstrand (1)","Free camping - Parking lot - Decent place - 10+ - tent"  ],
   [9.2486,59.558833,"Notodden bobilcamp (2)","Organized site - kr 150"  ],
   [5.592617,61.132283,"Vardekleivneset (4)","Free camping - Other - Suitable for emergencies only - 1"  ],
@@ -354,4 +355,5 @@
   [9.494333,61.436,"Verksodden, Espedalen (566)","Free camping - Parking lot - A fantastic site - 7-10 - tent"  ],
   [6.66183,58.619513,"Sjursvatnet, Ã˜kheia (567)","Free camping - Parking lot - Decent place - 2 - tent"  ],
   [7.073503,58.137747,"Alleen bobilparkering (568)","Organized site - 240"  ]
-]
+   ],
+}
