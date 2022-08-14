@@ -1,14 +1,14 @@
-Repareres"\n"
-revideres"\n"
-registreres"\n"
-reflekteres"\n"
-reformeres"\n"
-reviteres"\n"
-resigneres"\n"
-respireres"\n"
-resulteres"\n"
-revulteres"\n"
-respekteres"\n"
-repareres"\n"
-reglereres"\n"
-respireres"\n"
+Repareres \n
+revideres \n
+registreres \n
+reflekteres \n
+reformeres \n
+reviteres \n
+resigneres \n
+respireres \n
+resulteres \n
+revulteres \n
+respekteres \n
+repareres \n
+reglereres \n
+respireres
