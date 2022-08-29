@@ -2,3 +2,5 @@ Captain  PPL(A)
 Master & Commander
 Developer
 Geocacher extraordinaire
+It works on my machine.
+When all else fails … reboot.
