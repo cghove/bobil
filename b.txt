@@ -4,3 +4,4 @@ Developer
 Geocacher extraordinaire
 It works on my machine.
 When all else fails … reboot.
+JavaScript is a lot like English;  No one knows how to use semicolons properly.
