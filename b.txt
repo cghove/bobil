@@ -5,3 +5,26 @@ Geocacher extraordinaire
 It works on my machine.
 When all else fails … reboot.
 JavaScript is a lot like English;  No one knows how to use semicolons properly.
+Any given program, when running, is obsolete.
+Any given program costs more and takes longer.
+If a program is useful, it will have to be changed.
+If a program is useless, it will have to be documented.
+Any program will expand to fill available memory.
+The value of a program is proportional to the weight of its output.
+Program complexity grows until it exceeds the capabilities of the programmer who must maintain it.
+Any non-trivial program contains at least one bug.
+Undetectable errors are infinite in variety, in contrast to detectable errors, which by definition are limited.
+Adding manpower to a late software project makes it later
+.titanic { float:none;}
+big-bang::before { content: "";}
+Why do Java developers often wear glasses? They can’t C#.
+I love pressing the F5 key. It’s refreshing.
+Called IT support and a chap from Australia came to fix my network connection.  I asked “Do you come from a LAN down under?”
+Why are assembly programmers often wet? They work below C level.
+My favourite computer based band is the Black IPs.
+What programme do you use to predict the music tastes of former US presidential candidates? An Al Gore Rhythm.
+Why was the developer bankrupt? He’d used all his cache.
+An SEO expert walked into a bar, pub, inn, tavern, hostelry, public house.
+A friend is in a band called 1023Mb. They haven’t had a gig yet.
+If you listen to a UNIX shell, can you hear the C?
+Why do programmers confuse Halloween with Christmas? Because 31OCT=25DEC.
