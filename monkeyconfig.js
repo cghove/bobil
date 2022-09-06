@@ -329,6 +329,8 @@ return false;
     function defaultsClick() {
         setDefaults();
         update();
+        location.reload();
+return false;
     }
 
     /**
