@@ -309,10 +309,11 @@ function MonkeyConfig() {
         GM_setValue(storageKey, JSON.stringify(values));
         
         close();
-        location.reload();
-return false;
+        
         if (data.onSave)
             data.onSave(values);
+        location.reload();
+return false;
     }
     
     /**
