@@ -177,6 +177,8 @@ function MonkeyConfig() {
                     '<img src="data:image/png;base64,' +
                         MonkeyConfig.res.icons.tick + '" />&nbsp;' +
                     'Save</button>';
+                    location.reload();
+return false;
                 break;
             }
             
