@@ -177,8 +177,7 @@ function MonkeyConfig() {
                     '<img src="data:image/png;base64,' +
                         MonkeyConfig.res.icons.tick + '" />&nbsp;' +
                     'Save</button>';
-                    location.reload();
-return false;
+                    
                 break;
             }
             
@@ -310,7 +309,8 @@ return false;
         GM_setValue(storageKey, JSON.stringify(values));
         
         close();
-        
+        location.reload();
+return false;
         if (data.onSave)
             data.onSave(values);
     }
