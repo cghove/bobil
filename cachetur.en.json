@@ -47,10 +47,10 @@
     "browsemap": "Select browse map to add caches from map",
     "gclh2": "You need to disable GCLH2 script to fully use the cachetur assistant",
     "google": "You have to switch from google to leafleat maps in order for the assistant to work"
-   },
-   "lists": {
-     "in": "This cache is found in these templates, lists or trips that you own or follow on cachetur.no"
-   },
+  },
+  "lists": {
+    "in": "This cache is found in these templates, lists or trips that you own or follow on cachetur.no"
+  },
   "edit": {
     "toggle": "Button copies posted coordinates to clipboard, so they can be used to mark cache as having updated coordinates.",
     "default": "Default:",
@@ -61,20 +61,16 @@
     "dt": "Tell you if the cache you are currently watching is a new D/T for you, if not tell you how many D/T like this one you have already found.",
     "settings": "Settings",
     "assistant": "The Cachetur Assistant"
-    
-   },
+  },
   "dt": {
     "you": "You have already found",
     "caches": " with this D/T.",
     "new": "Go find it, it's a new D/T for you !!"
-   },
+  },
   "refresh": {
-     "tomany": "Too many searches per minute, please try again in",
+    "tomany": "Too many searches per minute, please try again in",
     "s": "s"
-    
-   },
-  
-  {
+  },
   "poi": {
     "title": "Point of interest",
     "coordinates": "Coordinates",
