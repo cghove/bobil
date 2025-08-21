@@ -1,0 +1,107 @@
+{
+  "activate": {
+    "button": "Activate the Cachetur Assistant"
+  },
+  "menu": {
+    "addto": "Add caches to:",
+    "loggedinas": "Signed in on cachetur.no as:",
+    "notloggedin": "You are not logged in on cachetur.no",
+    "deactivated": "The Cachetur Assistant has been deactivated",
+    "opentrip": "Open on cachetur.no",
+    "refresh": "Refresh data from cachetur.no",
+    "showonmap": "Show caches from cachetur.no on map",
+    "fitroute": "Zoom to fit route"
+  },
+  "send": "Send to cachetur.no",
+  "sent": "Sent to cachetur.no",
+  "comments": {
+    "add": "Add comment",
+    "description": "Enter comment (appended to any existing comments)",
+    "saved": "Comment sent to cachetur.no",
+    "error": "An error occurred when sending the comment to cachetur.no"
+  },
+  "priority": {
+    "priority": "Priority",
+    "set1": "Set priority 1",
+    "set2": "Set priority 2",
+    "set3": "Set priority 3",
+    "setnone": "Set no priority",
+    "saved": "Priority saved",
+    "error": "An error occurred when sending priority to cachetur.no"
+  },
+  "corrected": {
+    "title": "Button copies posted coordinates to clipboard, so they can be used to mark cache as having updated coordinates.",
+    "button": "Clipboard posted to corrected."
+  },
+  "foundby": "Found by:",
+  "vgps": {
+    "sendmarked": "Send selected to cachetur.no",
+    "markfromtrip": "Mark caches in the trip",
+    "sent": "The selected caches have been sent to cachetur.no",
+    "error": "Something went wrong when sending the selected caches to cachetur.no"
+  },
+  "template": {
+    "by": "by"
+  },
+  "alerts": {
+    "browsemap": "Select browse map to add caches from map",
+    "gclh2": "You need to disable GCLH2 script to fully use the cachetur assistant",
+    "google": "You have to switch from google to leafleat maps in order for the assistant to work"
+   },
+   "lists": {
+     "in": "This cache is found in these templates, lists or trips that you own or follow on cachetur.no"
+   },
+  "edit": {
+    "toggle": "Button copies posted coordinates to clipboard, so they can be used to mark cache as having updated coordinates.",
+    "default": "Default:",
+    "configure": "Configure",
+    "off": "OFF",
+    "open": "This feature will open links on cache pages in new tabs.",
+    "warning": "It will also disable geocaching.com warning about leaving geocachings domain, for external URL's",
+    "dt": "Tell you if the cache you are currently watching is a new D/T for you, if not tell you how many D/T like this one you have already found.",
+    "settings": "Settings",
+    "assistant": "The Cachetur Assistant"
+    
+   },
+  "dt": {
+    "you": "You have already found",
+    "caches": " with this D/T.",
+    "new": "Go find it, it's a new D/T for you !!"
+   },
+  "refresh": {
+     "tomany": "Too many searches per minute, please try again in",
+    "s": "s"
+    
+   },
+  
+  {
+  "poi": {
+    "title": "Point of interest",
+    "coordinates": "Coordinates",
+    "brand": "Brand",
+    "operator": "Operator",
+    "network": "Network",
+    "capacity": "Capacity",
+    "sockets": "Sockets",
+    "power": "Power",
+    "voltage": "Voltage",
+    "current": "Current",
+    "opening_hours": "Opening hours",
+    "website": "Website",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "street": "Street",
+    "housenumber": "House number",
+    "postcode": "Postal code",
+    "city": "City",
+    "municipality": "Municipality",
+    "county": "County",
+    "state": "State",
+    "country": "Country",
+    "ref": "Reference",
+    "note": "Note",
+    "view_on_osm": "View on OpenStreetMap",
+    "directions": "Directions"
+  }
+}
