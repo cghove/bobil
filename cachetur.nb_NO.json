@@ -1,0 +1,175 @@
+{
+  "activate": { "button": "Aktiver Cacheturassistenten" },
+  "menu": {
+    "addto": "Legg cacher til:",
+    "loggedinas": "Innlogget på cachetur.no som:",
+    "notloggedin": "Du er ikke innlogget på cachetur.no",
+    "deactivated": "Cacheturassistenten er deaktivert",
+    "opentrip": "Åpne på cachetur.no",
+    "refresh": "Oppdater data fra cachetur.no",
+    "showonmap": "Vis cacher fra cachetur.no på kartet",
+    "fitroute": "Zoom til ruten"
+  },
+  "send": "Send til cachetur.no",
+  "sent": "Sendt til cachetur.no",
+  "comments": {
+    "add": "Legg til kommentar",
+    "description": "Skriv inn kommentar (blir lagt til eksisterende kommentarer)",
+    "saved": "Kommentaren er sendt til cachetur.no",
+    "error": "En feil oppstod ved sending av kommentar til cachetur.no"
+  },
+  "priority": {
+    "priority": "Prioritet",
+    "set1": "Sett prioritet 1",
+    "set2": "Sett prioritet 2",
+    "set3": "Sett prioritet 3",
+    "setnone": "Fjern prioritet",
+    "saved": "Prioritet lagret",
+    "error": "En feil oppstod ved sending av prioritet til cachetur.no"
+  },
+  "corrected": {
+    "title": "Knappen kopierer publiserte koordinater til utklippstavlen, slik at de kan brukes til å markere cachen med oppdaterte koordinater.",
+    "button": "Kopier publiserte til korrigerte."
+  },
+  "foundby": "Funnet av:",
+  "vgps": {
+    "sendmarked": "Send valgte til cachetur.no",
+    "markfromtrip": "Marker cacher i turen",
+    "sent": "Valgte cacher er sendt til cachetur.no",
+    "error": "Noe gikk galt ved sending av valgte cacher til cachetur.no"
+  },
+  "template": { "by": "av" },
+  "alerts": {
+    "browsemap": "Velg blakart for å legge til cacher fra kartet",
+    "gclh2": "Du må deaktivere GCLH2-skriptet for å bruke cacheturassistenten fullt ut",
+    "google": "Du må bytte fra Google til leaflet-kart for at assistenten skal fungere"
+  },
+  "lists": {
+    "in": "Denne cachen finnes i disse malene, listene eller turene du eier eller følger på cachetur.no"
+  },
+
+  "edit": {
+    "toggle": "Knapp kopierer publiserte koordinater til utklippstavlen, slik at de kan brukes til å markere cachen med oppdaterte koordinater.",
+    "default": "Standard:",
+    "configure": "Konfigurer",
+    "off": "AV",
+    "open": "Denne funksjonen åpner lenker på cachesider i nye faner.",
+    "warning": "Den deaktiverer også geocaching.com-advarselen om eksterne lenker",
+    "dt": "Viser om cachen du ser på er en ny D/T for deg, hvis ikke vises hvor mange du har funnet med samme D/T.",
+    "settings": "Innstillinger",
+    "assistant": "Cacheturassistenten",
+    "showhide": "Vis/Skjul",
+
+    "poi_overlay": "POI-lag",
+    "poi_overlay_desc": "Åpne data fra OSM via Overpass API",
+
+    "cluster": {
+      "title": "Markergruppering",
+      "enable": "Slå på gruppering (per kategori)",
+      "disable_at_zoom": "Slå av gruppering ved zoom ≥"
+    },
+
+    "cat": {
+      "parking": "Parkering",
+      "lodging": "Overnatting",
+      "food": "Mat (restaurant/kafé)",
+      "rest": "Rasteplass",
+      "attraction": "Attraksjon",
+      "store": "Butikk/Service",
+      "terminal": "Stasjon/Terminal",
+      "fuel": "Bensinstasjon",
+      "ev": "Ladestasjon",
+      "rv": "Bobilplass",
+      "wildcamp": "Villcamping"
+    },
+
+    "panel": {
+      "ev_filters": "Elbilfiltre",
+      "lodging": "Overnattingstyper og fasiliteter",
+      "attraction": "Attraksjonsfiltre",
+      "parking": "Parkeringsfiltre",
+      "rest": "Rasteplassfiltre",
+      "fuel": "Drivstoffiltre",
+      "food": "Mat og drikke-filtre",
+      "store": "Butikkfiltre",
+      "terminal": "Terminalfiltre",
+      "rv": "Bobilfiltre",
+      "wildcamp": "Villcamping-filtre"
+    },
+
+    "subhead": {
+      "eu": "Europa / Internasjonalt",
+      "na": "Nord-Amerika",
+      "kinds": "Typer",
+      "_comment_diet": "Diet betyr kosthold/preferanser som vegan/vegetar",
+      "diet": "Kosthold",
+      "fuel_types": "Drivstofftyper",
+      "other": "Annet",
+      "culture": "Kultur og historie",
+      "nature": "Natur og landskap",
+      "recreation": "Rekreasjon og opplevelser"
+    }
+  },
+
+  "poi": {
+    "title": "Sted",
+    "coordinates": "Koordinater",
+    "brand": "Merke",
+    "operator": "Operatør",
+    "network": "Nettverk",
+    "capacity": "Kapasitet",
+    "sockets": "Kontakter",
+    "power": "Effekt",
+    "voltage": "Spenning",
+    "current": "Strøm",
+    "opening_hours": "Åpningstider",
+    "website": "Nettside",
+    "phone": "Telefon",
+    "email": "E-post",
+    "address": "Adresse",
+    "street": "Gate",
+    "housenumber": "Husnummer",
+    "postcode": "Postnummer",
+    "city": "By",
+    "municipality": "Kommune",
+    "county": "Fylke",
+    "state": "Delstat",
+    "country": "Land",
+    "ref": "Referanse",
+    "note": "Notat",
+    "view_on_osm": "Vis på OpenStreetMap",
+    "open_in_osm": "Åpne i OpenStreetMap",
+    "source_osm": "Kilde: OpenStreetMap",
+    "directions": "Veibeskrivelse",
+    "copy": "Kopier",
+    "copy_to_clipboard": "Kopier til utklippstavle",
+    "search_with_google": "Søk med Google",
+    "search_with_tripadvisor": "Søk med TripAdvisor",
+    "access": "Tilgang",
+    "fee": "Avgift",
+    "payment": "Betaling",
+    "authentication": "Autentisering",
+    "price": "Pris",
+    "max_stay": "Maks opphold",
+
+    "facilities": "Fasiliteter",
+    "description": "Beskrivelse",
+    "mode": "Transporttype",
+    "camp_type": "Campingtype",
+    "min_capacity": "Min kapasitet",
+    "max_capacity": "Maks kapasitet",
+    "height_limit": "Høydebegrensning",
+    "overnight": "Overnatting tillatt",
+    "hgv_capacity": "Lastebilkapasitet",
+    "wheelchair": "Rullestoltilgang",
+    "diet": "Kosthold",
+    "fuel_types": "Drivstofftyper",
+    "other": "Annen info"
+  },
+
+  "buttons": {
+    "save": "Lagre",
+    "close": "Lukk",
+    "reset": "Tilbakestill til standard"
+  }
+}
