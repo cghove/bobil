@@ -1,7 +1,5 @@
 {
-  "activate": {
-    "button": "Activate the Cachetur Assistant"
-  },
+  "activate": { "button": "Activate the Cachetur Assistant" },
   "menu": {
     "addto": "Add caches to:",
     "loggedinas": "Signed in on cachetur.no as:",
@@ -40,17 +38,16 @@
     "sent": "The selected caches have been sent to cachetur.no",
     "error": "Something went wrong when sending the selected caches to cachetur.no"
   },
-  "template": {
-    "by": "by"
-  },
+  "template": { "by": "by" },
   "alerts": {
     "browsemap": "Select browse map to add caches from map",
     "gclh2": "You need to disable GCLH2 script to fully use the cachetur assistant",
-    "google": "You have to switch from google to leafleat maps in order for the assistant to work"
+    "google": "You have to switch from google to leaflet maps in order for the assistant to work"
   },
   "lists": {
     "in": "This cache is found in these templates, lists or trips that you own or follow on cachetur.no"
   },
+
   "edit": {
     "toggle": "Button copies posted coordinates to clipboard, so they can be used to mark cache as having updated coordinates.",
     "default": "Default:",
@@ -60,17 +57,205 @@
     "warning": "It will also disable geocaching.com warning about leaving geocachings domain, for external URL's",
     "dt": "Tell you if the cache you are currently watching is a new D/T for you, if not tell you how many D/T like this one you have already found.",
     "settings": "Settings",
-    "assistant": "The Cachetur Assistant"
+    "assistant": "The Cachetur Assistant",
+    "showhide": "Show/Hide",
+
+    "poi_overlay": "POI overlay",
+    "poi_overlay_desc": "Open data from OSM via Overpass API",
+
+    "cluster": {
+      "title": "Marker clustering",
+      "enable": "Enable clustering (per category)",
+      "disable_at_zoom": "Disable clustering at zoom ≥"
+    },
+
+    "cat": {
+      "parking": "Parking",
+      "lodging": "Lodging",
+      "food": "Food (restaurants/cafes)",
+      "rest": "Rest areas (picnic)",
+      "attraction": "Tourist attraction",
+      "store": "Store/Supplies/Service",
+      "terminal": "Station/Stop/Terminal",
+      "fuel": "Petrol station",
+      "ev": "EV charging",
+      "rv": "Motorhome stops",
+      "wildcamp": "Wild/primitive camping"
+    },
+
+    "panel": {
+      "ev_filters": "EV filters",
+      "lodging": "Lodging subtypes & amenities",
+      "attraction": "Attraction filters",
+      "parking": "Parking filters",
+      "rest": "Rest area filters",
+      "fuel": "Fuel station filters",
+      "food": "Food & drink filters",
+      "store": "Store filters",
+      "terminal": "Terminal filters",
+      "rv": "RV filters",
+      "wildcamp": "Wild/primitive camping filters"
+    },
+
+    "subhead": {
+      "eu": "EU / International",
+      "na": "North America",
+      "kinds": "Kinds",
+      "_comment_diet": "Diet means dietary options such as vegan/vegetarian",
+      "diet": "Diet",
+      "fuel_types": "Fuel types",
+      "other": "Other",
+      "culture": "Culture & history",
+      "nature": "Nature & landscape",
+      "recreation": "Recreation & experiences"
+    },
+
+    "ev": {
+      "allow_type2": "Allow Type 2 (AC)",
+      "allow_ccs2": "Allow CCS2 (Type 2 combo, DC)",
+      "allow_chademo": "Allow CHAdeMO (DC)",
+      "allow_schuko": "Allow Schuko (AC)",
+      "allow_type1": "Allow Type 1 / J1772 (AC)",
+      "allow_ccs1": "Allow CCS1 (Type 1 combo, DC)",
+      "allow_nacs": "Allow NACS (DC/AC)",
+      "allow_tesla_sc": "Allow Tesla Supercharger (legacy tag)",
+      "allow_tesla_dest": "Allow Tesla Destination (legacy tag)",
+      "allow_nema1450": "Allow NEMA 14-50",
+      "allow_nema515": "Allow NEMA 5-15",
+      "allow_nema520": "Allow NEMA 5-20",
+      "allow_tt30": "Allow TT-30",
+      "min_kw": "Min power (kW)"
+    },
+
+    "lodging": {
+      "types": {
+        "hotel": "Hotel",
+        "motel": "Motel",
+        "guest_house": "Guest house",
+        "hostel": "Hostel",
+        "alpine_hut": "Alpine hut",
+        "camp_site": "Camp site",
+        "caravan_site": "Caravan site",
+        "chalet": "Chalet"
+      },
+      "amenities": {
+        "require_showers": "Require showers",
+        "require_toilets": "Require toilets",
+        "require_drinking_water": "Require drinking water",
+        "require_wifi": "Require Wi-Fi",
+        "reservation_only": "Reservation required (only)",
+        "free_only": "Free only"
+      }
+    },
+
+    "attraction_labels": {
+      "museum": "museum",
+      "artwork": "artwork / sculpture",
+      "castle": "castle",
+      "ruins": "ruins",
+      "monument": "monument",
+      "memorial": "memorial",
+      "archaeo": "archaeological site",
+      "church": "church (notable)",
+      "viewpoint": "viewpoint",
+      "picnic": "picnic site",
+      "peak": "peak",
+      "volcano": "volcano",
+      "waterfall": "waterfall",
+      "cave": "cave entrance",
+      "themepark": "theme park",
+      "zoo": "zoo",
+      "aquarium": "aquarium",
+      "gallery": "gallery",
+      "planetarium": "planetarium",
+      "coaster": "roller coaster"
+    },
+
+    "parking": {
+      "free_only": "Free only (fee=no)",
+      "covered_only": "Covered only",
+      "paved_only": "Paved surface only",
+      "pnr_only": "Park & Ride only",
+      "motorhome_ok": "Motorhome allowed",
+      "hgv_ok": "HGV/Truck allowed",
+      "min_capacity": "Min capacity",
+      "max_height": "Max height ≤ (m, 0=ignore)"
+    },
+
+    "rest": {
+      "require_toilets": "Require toilets",
+      "require_drinking": "Require drinking water",
+      "require_shelter": "Require shelter",
+      "require_picnic": "Require picnic table",
+      "overnight_hint": "Overnight hint required",
+      "hgv_cap_only": "Only if HGV capacity tagged"
+    },
+
+    "fuel": {
+      "diesel": "Diesel",
+      "petrol": "Petrol",
+      "e10": "E10",
+      "e85": "E85",
+      "lpg": "LPG",
+      "cng": "CNG",
+      "open_247": "Open 24/7 only",
+      "brand_contains": "Brand contains (optional)"
+    },
+
+    "food": {
+      "restaurant": "Restaurant",
+      "fastfood": "Fast food",
+      "cafe": "Cafe",
+      "pubbar": "Pub/Bar",
+      "vegan_only": "Vegan-friendly only",
+      "vegetarian_only": "Vegetarian-friendly only"
+    },
+
+    "store": {
+      "supermarket": "Supermarket",
+      "convenience": "Convenience",
+      "bakery": "Bakery",
+      "pharmacy": "Pharmacy",
+      "outdoor": "Outdoor / Sports",
+      "hardware": "Hardware / DIY",
+      "brand_contains": "Brand contains (optional)"
+    },
+
+    "terminal": {
+      "rail": "Rail stations",
+      "bus": "Bus stations",
+      "ferry": "Ferry terminals",
+      "airport": "Airport terminals",
+      "platform": "PT platforms/stop positions",
+      "wheelchair_only": "Wheelchair=yes only"
+    },
+
+    "rv": {
+      "dump": "Require sanitary dump",
+      "water": "Require water point",
+      "power": "Require electricity",
+      "showers": "Require showers",
+      "toilets": "Require toilets",
+      "free_only": "Free only"
+    },
+
+    "wildcamp": {
+      "allow_informal": "Allow informal sites",
+      "only_basic": "Only basic/backcountry/wild"
+    }
   },
+
   "dt": {
     "you": "You have already found",
     "caches": " with this D/T.",
     "new": "Go find it, it's a new D/T for you !!"
   },
+
   "refresh": {
     "tomany": "Too many searches per minute, please try again in",
     "s": "s"
   },
+
   "poi": {
     "title": "Point of interest",
     "coordinates": "Coordinates",
@@ -98,6 +283,38 @@
     "ref": "Reference",
     "note": "Note",
     "view_on_osm": "View on OpenStreetMap",
-    "directions": "Directions"
+    "open_in_osm": "Open in OpenStreetMap",
+    "source_osm": "Source: OpenStreetMap",
+    "directions": "Directions",
+    "copy": "Copy",
+    "copy_to_clipboard": "Copy to clipboard",
+    "search_with_google": "Search with Google",
+    "search_with_tripadvisor": "Search with TripAdvisor",
+    "access": "Access",
+    "fee": "Fee",
+    "payment": "Payment",
+    "authentication": "Authentication",
+    "price": "Price",
+    "max_stay": "Max stay",
+
+    "facilities": "Facilities",
+    "description": "Description",
+    "mode": "Mode",
+    "camp_type": "Camp type",
+    "min_capacity": "Min capacity",
+    "max_capacity": "Max capacity",
+    "height_limit": "Height limit",
+    "overnight": "Overnight allowed",
+    "hgv_capacity": "HGV capacity",
+    "wheelchair": "Wheelchair access",
+    "diet": "Dietary options",
+    "fuel_types": "Fuel types",
+    "other": "Other info"
+  },
+
+  "buttons": {
+    "save": "Save",
+    "close": "Close",
+    "reset": "Reset to default"
   }
 }
